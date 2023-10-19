@@ -3,7 +3,7 @@
 # Makefile
 
 install:
-	install nmp ci
+	nmp ci
 
 brain-games:
 	node bin/brain-games.js
